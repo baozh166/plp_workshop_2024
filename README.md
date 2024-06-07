@@ -3,6 +3,7 @@ This introductory course is designed for beginners and aims to familiarize parti
 No prior experience is required. Participants will learn how to interact with large datasets, utilize computer clusters effectively, create electronic notebooks, and develop pipelines for analysis.
 
 The course spans two days. 
+
 Day 1: Mining Genomic Data for Pathogen Identification and Virulence Factors
 In this module, participants will dive into genomic data analysis. Through hands-on exercises, they will learn to utilize Unix commands and basic Python programming to construct Hidden Markov Models (HMMs) for mining genetic databases. Emphasis will be placed on identifying and classifying virulence factors crucial for understanding pathogen behavior.
 
