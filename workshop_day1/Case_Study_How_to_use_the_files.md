@@ -23,8 +23,8 @@ In this case study, we should have everything we need in the provided files, but
 
 ## How to open and use the files provided (for new users of Google Colab):
 1. Register or login into your Google account
-2. Search/ Go to the [Google Colab Notebook website](https://colab.research.google.com/notebook) and upload the downloaded IPython Notebook **introduction.ipynb**, now you should be viewing the notebook in Colab.
+2. Search/ Go to the [Google Colab Notebook website](https://colab.research.google.com/notebook) and upload the downloaded IPython Notebook **eff_6_6.ipynb**, now you should be viewing the notebook in Colab.
 3. On the left side of the screen, find **Files** and you may see a **sample_data** folder if this is your first time using Google Colab.
 4. Upload the downloaded **PF03377.hmm** and **list_gi** files. (You can choose to make a new folder to store all files used in this case study, just remember to adjust the path to call these files later in the notebook.)
-5. Now you are ready to run the code cells of the **introduction.ipynb**!
+5. Now you are ready to run the code cells of the **eff_6_6.ipynb**!
 6. Additional tip on installing packages at the beginning: you may need to type 'y' to proceed with package installation.
